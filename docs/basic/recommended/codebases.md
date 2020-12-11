@@ -1,9 +1,8 @@
 ---
 id: codebases
 title: Recommended React + TypeScript codebases to learn from
-sidebar_label: Codebases to learn from
+sidebar_label: Codebases
 ---
-
 
 - https://github.com/devhubapp/devhub
 - https://github.com/formium/formik/
@@ -16,6 +15,8 @@ sidebar_label: Codebases to learn from
 - https://github.com/artsy/emission (React Native)
 - [@reach/ui's community typings](https://github.com/reach/reach-ui/pull/105)
 - https://github.com/pshrmn/curi/tree/master/packages/router
+- https://github.com/microsoft/fluentui
+- https://github.com/cypress-io/cypress-realworld-app
 
 Older but still worth checking:
 
