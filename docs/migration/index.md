@@ -87,7 +87,7 @@ see also [Things I was Wrong About: Types](https://v5.chriskrycho.com/journal/th
 
 ## Misc migration stories by notable companies and open source
 
-- [Bloomberg](https://www.techatbloomberg.com/blog/10-insights-adopting-typescript-at-scale/)
+- [Bloomberg](https://www.techatbloomberg.com/blog/10-insights-adopting-typescript-at-scale/) - [Podcast form](https://talkscript.sitepen.com/episode-57-typescript-at-scale/)
 - [Adopting TypeScript at Scale - AirBnB's conversion story and strategy](https://www.youtube.com/watch?v=P-J9Eg7hJwE)
 - [Lyft](https://eng.lyft.com/typescript-at-lyft-64f0702346ea)
 - [Google](http://neugierig.org/software/blog/2018/09/typescript-at-google.html)
@@ -99,6 +99,7 @@ see also [Things I was Wrong About: Types](https://v5.chriskrycho.com/journal/th
   - [Talk at React Loop](https://www.youtube.com/watch?v=veXkJq0Z2Qk)
   - [Blogpost: The Great CoffeeScript to TypeScript Migration of 2017](https://dropbox.tech/frontend/the-great-coffeescript-to-typescript-migration-of-2017)
 - [Heap - How we failed, then succeeded, at migrating to TypeScript](https://heap.io/blog/analysis/migrating-to-typescript)
+- Execute Program (Gary Bernhardt) https://www.executeprogram.com/blog/porting-to-typescript-solved-our-api-woes
 
 Open Source
 
